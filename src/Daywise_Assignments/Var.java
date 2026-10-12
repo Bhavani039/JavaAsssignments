@@ -13,10 +13,5 @@ public class Var {
         System.out.println("char:" + exclam);
         System.out.println("Boolean:" + bool);
         System.out.println("String:" + str);
-
-
-
-
-
     }
 }
