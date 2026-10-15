@@ -1,4 +1,4 @@
-package Daywise_Assignments;
+package Day_2_Assignments;
 
 public class Arithmetic_operations {
     public static void main(String[] args) {

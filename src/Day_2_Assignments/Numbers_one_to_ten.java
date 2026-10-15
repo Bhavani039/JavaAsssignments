@@ -1,4 +1,4 @@
-package Daywise_Assignments;
+package Day_2_Assignments;
 
 public class Numbers_one_to_ten {
     public static void main (String[] args)

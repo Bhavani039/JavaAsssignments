@@ -2,7 +2,7 @@ package Day_2_Assignments;
 
 import java.util.Scanner;
 
-public class Inter_SI {
+public class Inter_Simple_Interest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

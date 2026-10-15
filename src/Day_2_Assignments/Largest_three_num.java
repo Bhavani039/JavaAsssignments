@@ -1,4 +1,4 @@
-package Daywise_Assignments;
+package Day_2_Assignments;
 
 import java.util.Scanner;
 

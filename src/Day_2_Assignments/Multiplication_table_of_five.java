@@ -1,4 +1,4 @@
-package Daywise_Assignments;
+package Day_2_Assignments;
 
 public class Multiplication_table_of_five {
     public static void main(String[] args) {

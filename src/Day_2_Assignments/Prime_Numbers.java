@@ -1,4 +1,4 @@
-package Daywise_Assignments;
+package Day_2_Assignments;
 
 public class Prime_Numbers {
     public static void main(String[] args) {

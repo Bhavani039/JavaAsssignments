@@ -1,8 +1,8 @@
-package Daywise_Assignments;
+package Day_2_Assignments;
 
 public class Positive_Negative_Zero {
     public static void main(String[] args){
-        int number = 0;
+        int number = 5;
         if (number > 0) {
             System.out.println(number + " " + "Is Positive");
         }

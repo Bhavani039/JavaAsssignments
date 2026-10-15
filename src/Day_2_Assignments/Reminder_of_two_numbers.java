@@ -1,4 +1,4 @@
-package Daywise_Assignments;
+package Day_2_Assignments;
 
 public class Reminder_of_two_numbers {
     public static void main(String[] args) {
